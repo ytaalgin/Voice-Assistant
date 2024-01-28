@@ -1,0 +1,258 @@
+1663946676039	geckodriver	INFO	Listening on 127.0.0.1:53037
+1663946679081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofiletludeB"
+1663946679478	Marionette	INFO	Marionette enabled
+1663946679486	Marionette	INFO	Listening on port 53047
+Read port: 53047
+WebDriver BiDi listening on ws://127.0.0.1:53038
+1663946679662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofiletludeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53038/devtools/browser/a187697b-6ed3-419c-bb66-09a430f15716
+1663946683917	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-23T15:24:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:24:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:24:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:24:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:24:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 7000, MediaDecoderStateMachine #1] WARNING: Decoder=17d0fc16a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 7000, MediaDecoderStateMachine #1] WARNING: Decoder=17d0fc16a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 7000, MediaDecoderStateMachine #1] WARNING: Decoder=17d0fc60700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 7000, MediaDecoderStateMachine #1] WARNING: Decoder=17d0fc60700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 7000, MediaDecoderStateMachine #1] WARNING: Decoder=17d182c2d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 7000, MediaDecoderStateMachine #1] WARNING: Decoder=17d182c2d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663947749052	geckodriver	INFO	Listening on 127.0.0.1:53392
+1663947752082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileonx2Gi"
+1663947752465	Marionette	INFO	Marionette enabled
+1663947752472	Marionette	INFO	Listening on port 53404
+Read port: 53404
+WebDriver BiDi listening on ws://127.0.0.1:53393
+1663947752641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileonx2Gi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53393/devtools/browser/8f355741-b6b5-445f-b63d-857f919010d2
+1663947757196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-23T15:42:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:42:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:42:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:42:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T15:42:40Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 14560, MediaDecoderStateMachine #1] WARNING: Decoder=203a10de900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 14560, MediaDecoderStateMachine #1] WARNING: Decoder=203a10de900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 14560, MediaDecoderStateMachine #1] WARNING: Decoder=2039a2aa600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 14560, MediaDecoderStateMachine #1] WARNING: Decoder=2039a2aa600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 14560, MediaDecoderStateMachine #1] WARNING: Decoder=203a1060f00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 14560, MediaDecoderStateMachine #1] WARNING: Decoder=203a1060f00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 6567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663947803775	Marionette	INFO	Stopped listening on port 53404
+1663949484581	geckodriver	INFO	Listening on 127.0.0.1:53748
+1663949487634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilepO0mIg"
+1663949488002	Marionette	INFO	Marionette enabled
+1663949488008	Marionette	INFO	Listening on port 53758
+Read port: 53758
+WebDriver BiDi listening on ws://127.0.0.1:53749
+1663949488166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilepO0mIg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53749/devtools/browser/3ae7a58f-d8a2-4a03-a012-0e8ef7084f85
+1663949492285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-23T16:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T16:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T16:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T16:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-23T16:11:34Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 9064, MediaDecoderStateMachine #1] WARNING: Decoder=286d8f83800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 9064, MediaDecoderStateMachine #1] WARNING: Decoder=286d8f83800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 9064, MediaDecoderStateMachine #1] WARNING: Decoder=286d8f18700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 9064, MediaDecoderStateMachine #1] WARNING: Decoder=286d8f18700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 6710 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SUiySqS1in-YUNsSXtQt1jv3ON6UQ0EMqlXBaZ_BtMI.js line 2 > eval line 2707 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663949574509	Marionette	INFO	Stopped listening on port 53758
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664101853425	geckodriver	INFO	Listening on 127.0.0.1:54715
+1664101856470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileiLTTTZ"
+1664102368952	geckodriver	INFO	Listening on 127.0.0.1:54827
+1664102371998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54828" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilevXiBwW"
+1664102372393	Marionette	INFO	Marionette enabled
+1664102372399	Marionette	INFO	Listening on port 54837
+Read port: 54837
+WebDriver BiDi listening on ws://127.0.0.1:54828
+1664102372554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilevXiBwW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54828/devtools/browser/1992e624-45c8-46c7-afb2-4dddcf78df4a
+1664102377026	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:39:39Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 2856, MediaDecoderStateMachine #1] WARNING: Decoder=2308193f700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 2856, MediaDecoderStateMachine #1] WARNING: Decoder=2308193f700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EiKF25-Ew8QnV9WFt1cB1UkyXxUODWVwE4mmpr-jolo.js line 2 > eval line 2389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664102475376	Marionette	INFO	Stopped listening on port 54837
+1664102828392	geckodriver	INFO	Listening on 127.0.0.1:54953
+1664102831435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilercvO3i"
+1664102831837	Marionette	INFO	Marionette enabled
+1664102831842	Marionette	INFO	Listening on port 54963
+Read port: 54963
+WebDriver BiDi listening on ws://127.0.0.1:54954
+1664102832004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilercvO3i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54954/devtools/browser/9c6be527-dc86-430d-96e4-4954a58db457
+1664102836259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-25T10:47:18Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vTbTmvuxvaqY-350E8gd8IPWCIWzlft0eSoVzuBTYYo.js line 2 > eval line 2399 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vTbTmvuxvaqY-350E8gd8IPWCIWzlft0eSoVzuBTYYo.js line 2 > eval line 778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664102910051	Marionette	INFO	Stopped listening on port 54963
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664211163926	geckodriver	INFO	Listening on 127.0.0.1:61905
+1664211166960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61906" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofile6PhfRL"
+1664211167460	Marionette	INFO	Marionette enabled
+1664211167466	Marionette	INFO	Listening on port 61915
+Read port: 61915
+WebDriver BiDi listening on ws://127.0.0.1:61906
+1664211167589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofile6PhfRL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61906/devtools/browser/82dda7c8-6961-41f6-8009-3d15db5b5cfe
+1664211171626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-26T16:52:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T16:52:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T16:52:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T16:52:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T16:52:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T16:52:52Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 4340, MediaDecoderStateMachine #1] WARNING: Decoder=1e0e17ae400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 4340, MediaDecoderStateMachine #1] WARNING: Decoder=1e0e17ae400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 4340, MediaDecoderStateMachine #1] WARNING: Decoder=1e0e1244e00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 4340, MediaDecoderStateMachine #1] WARNING: Decoder=1e0e1244e00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664211243657	Marionette	INFO	Stopped listening on port 61915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664211768884	geckodriver	INFO	Listening on 127.0.0.1:62317
+1664211771905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileAt4BFA"
+1664211772216	Marionette	INFO	Marionette enabled
+1664211772221	Marionette	INFO	Listening on port 62327
+Read port: 62327
+WebDriver BiDi listening on ws://127.0.0.1:62318
+1664211772329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileAt4BFA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62318/devtools/browser/ca806b09-7d97-40a8-8690-32da43e4cd89
+1664211776411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-26T17:02:58Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 17048, MediaDecoderStateMachine #1] WARNING: Decoder=1f0f0818d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 17048, MediaDecoderStateMachine #1] WARNING: Decoder=1f0f0818d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 739 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/D52GskfJOxf5PECSshYwDvZZSmyyoPi_bK3LssDxWko.js line 2 > eval line 6376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664211841424	Marionette	INFO	Stopped listening on port 62327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664382957862	geckodriver	INFO	Listening on 127.0.0.1:51342
+1664382960895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileLLaAW2"
+1664382961307	Marionette	INFO	Marionette enabled
+1664382961315	Marionette	INFO	Listening on port 51352
+Read port: 51352
+WebDriver BiDi listening on ws://127.0.0.1:51343
+1664382961496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileLLaAW2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51343/devtools/browser/b7558353-919a-4248-bf19-42aef687dbc2
+1664382966066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-09-28T16:36:07Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 16216, MediaDecoderStateMachine #1] WARNING: Decoder=29c8085e400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 16216, MediaDecoderStateMachine #1] WARNING: Decoder=29c8085e400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EiKF25-Ew8QnV9WFt1cB1UkyXxUODWVwE4mmpr-jolo.js line 2 > eval line 4321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664383009200	Marionette	INFO	Stopped listening on port 51352
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667917630929	geckodriver	INFO	Listening on 127.0.0.1:53567
+1667917633955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53568" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofile4SplD8"
+1667917634473	Marionette	INFO	Marionette enabled
+1667917634479	Marionette	INFO	Listening on port 53578
+Read port: 53578
+WebDriver BiDi listening on ws://127.0.0.1:53568
+1667917634592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofile4SplD8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53568/devtools/browser/c6528bc9-1568-4f8e-879c-cba583c42c22
+1667917638204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:27:19Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1754 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 1080 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667917678877	Marionette	INFO	Stopped listening on port 53578
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667917815871	geckodriver	INFO	Listening on 127.0.0.1:53968
+1667917818896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilebRjMjP"
+1667917819208	Marionette	INFO	Marionette enabled
+1667917819214	Marionette	INFO	Listening on port 53978
+Read port: 53978
+WebDriver BiDi listening on ws://127.0.0.1:53969
+1667917819318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofilebRjMjP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53969/devtools/browser/7fce9260-0f2a-4279-8706-55102442c783
+1667917822734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-08T14:30:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:30:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:30:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:30:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:30:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T14:30:23Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[Child 3820, MediaDecoderStateMachine #1] WARNING: Decoder=2107c7e6400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 3820, MediaDecoderStateMachine #1] WARNING: Decoder=2107c7e6400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 3820, MediaDecoderStateMachine #1] WARNING: Decoder=210723d6a00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 3820, MediaDecoderStateMachine #1] WARNING: Decoder=210723d6a00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://pagead2.googlesyndication.com/bg/api979c0EJY6QQNrS8TSWwgKrshdt-vRMqEtOqF-hYY.js line 2 > eval line 3264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667917863314	Marionette	INFO	Stopped listening on port 53978
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667928049264	geckodriver	INFO	Listening on 127.0.0.1:55646
+1667928052312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileAJY0au"
+1667928052616	Marionette	INFO	Marionette enabled
+1667928052621	Marionette	INFO	Listening on port 55656
+Read port: 55656
+WebDriver BiDi listening on ws://127.0.0.1:55647
+1667928052751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ytaal\\AppData\\Local\\Temp\\rust_mozprofileAJY0au\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55647/devtools/browser/3352144e-cb7f-4fe4-94c6-b29f8dc9243a
+1667928056212	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-11-08T17:20:57Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+1667928103717	Marionette	INFO	Stopped listening on port 55656
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
